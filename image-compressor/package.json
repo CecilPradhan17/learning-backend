@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "sharp": "^0.34.5"
+  },
+  "name": "backend-learning",
+  "version": "1.0.0",
+  "description": "html-scrapper: a CLI application that takes a URL and a CSS selector arguments and prints the text content of the element that matches the selector. Uses Cheerio for parsing HTML",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CecilPradhan17/learning-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/CecilPradhan17/learning-backend/issues"
+  },
+  "homepage": "https://github.com/CecilPradhan17/learning-backend#readme"
+}

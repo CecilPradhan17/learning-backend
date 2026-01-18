@@ -5,3 +5,5 @@ html-scrapper: a CLI application that takes a URL and a CSS selector arguments a
 github-searcher: a CLI application that calls the github REST API and returns the repos created within a certain date range in order of most stars to least.
 
 file-renamer: a CLI application that takes the path for a directory and a new file name. The files in the directory are then renamed to the new name in bulk. Uses fs and path.
+
+image-compressor: a CLI application that takes an input directory path and an output directory path. It then compresses the images in the input directory and either stores them in the output directory or the input directory itself. It uses Sharp to compress the images.
